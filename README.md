@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ikrong
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Nothing
+- 📫 Reach me @ [ikrong.com](ikrong.com)
